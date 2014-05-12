@@ -17,3 +17,4 @@ c:\users\papabear\documents\visual studio 2013\Projects\ChiuMartSAIS\ChiuMartSAI
 c:\users\papabear\documents\visual studio 2013\Projects\ChiuMartSAIS\ChiuMartSAIS\obj\Debug\ChiuMartSAIS.frmUnits.resources
 c:\users\papabear\documents\visual studio 2013\Projects\ChiuMartSAIS\ChiuMartSAIS\obj\Debug\ChiuMartSAIS.frmUsers.resources
 c:\users\papabear\documents\visual studio 2013\Projects\ChiuMartSAIS\ChiuMartSAIS\bin\Debug\MySql.Data.Entity.EF5.dll
+c:\users\papabear\documents\visual studio 2013\Projects\ChiuMartSAIS\ChiuMartSAIS\obj\Debug\ChiuMartSAIS.frmCategory_Add.resources

@@ -62,4 +62,8 @@ Public Class frmCategory
     End Sub
 
 
+    Private Sub btnAdd_Click(sender As Object, e As EventArgs) Handles btnAdd.Click
+        Dim frm = New frmCategory_Add
+        frm.Show()
+    End Sub
 End Class

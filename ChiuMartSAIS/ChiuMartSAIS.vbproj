@@ -85,6 +85,12 @@
     <Compile Include="Forms\FileMaintenance\frmCategory.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Forms\FileMaintenance\frmCategory_Add.Designer.vb">
+      <DependentUpon>frmCategory_Add.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FileMaintenance\frmCategory_Add.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Forms\FileMaintenance\frmClient.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -135,6 +141,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Forms\FileMaintenance\frmCategory.resx">
       <DependentUpon>frmCategory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FileMaintenance\frmCategory_Add.resx">
+      <DependentUpon>frmCategory_Add.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\FileMaintenance\frmClient.resx">
       <DependentUpon>frmClient.vb</DependentUpon>
